@@ -1,0 +1,2 @@
+twisted==22.4.0
+streamlink==4.1.0
